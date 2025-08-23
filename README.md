@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 <br>I'm a Beginner/Newbie developer passionate about learning and creating.  <br>I’ve previously learned and gained a good understanding of **C++** and **Python**, and now I’m focusing on improving my **JavaScript** skills.  <br>I’m exploring the world of programming and design, starting with small projects that help me grow step by step.  <br>My goal is to improve my skills every day while building things that are both fun and useful.<br>
 
 
